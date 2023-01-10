@@ -1,9 +1,9 @@
 
 # Node.js Streams StackOverflow Survey
 
-This is an application that downloads the StackOverflow survey zip file (~110MB), extracts it, reads the CSV file, groups and counts the data by country, sorts the data and prints the final result to the console. And all of this is done using Streams.
+This is an application that downloads the StackOverflow survey zip file (~110MB), extracts it, reads the CSV file, groups and counts the data by country, sorts the data and prints the final result to the terminal. And all of this is done using Streams.
 
-## Final result printed on the console
+## Final result printed on the terminal
 
 ```
 {
